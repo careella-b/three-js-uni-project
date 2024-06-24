@@ -1,1 +1,4 @@
 # three-js-uni-project
+## three.js Animation Project
+
+In the "KF6018 – Computer Graphics and Animation" project, Role 1 involved initializing the scene, setting up the camera and renderer using three.js. Textures from Poliigon were applied to elements like doors, windows, and landscapes using MeshStandardMaterial for realistic appearances. Geometries included floors (PlaneGeometry), modular house components, trees (CylinderGeometry, SphereGeometry), and mountains (ConeGeometry). Lighting featured Ambient and Directional lights for scene illumination, complemented by Point lights for object highlights. A red guy model, created in Blender and imported via GLTFLoader, added visual depth. A GUI debug window facilitated light and cloud color adjustments, while Orbit Controls enabled user interaction for scene navigation.
